@@ -1,2 +1,1 @@
-
 ## 🚀 Gatsby + GitHub Pages 
