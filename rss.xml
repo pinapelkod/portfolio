@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog for our GitHub demo projects.]]></description><link>http://dev.pinapel.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Dec 2021 04:22:33 GMT</lastBuildDate><item><title><![CDATA[Static Site Generators]]></title><description><![CDATA[📜 Table of Contents ➡ Why Static Site Generators Speed ⚡ Scale 📈 Security 🔐 With static site generators like Gatsby you can build and…]]></description><link>http://dev.pinapel.com/blog-01/</link><guid isPermaLink="false">http://dev.pinapel.com/blog-01/</guid><pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;📜 Table of Contents&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;1. Why Static Site Generators
+2. Use Cases
+3. Top 5️⃣ Static Site Generators
+5. Gatsby and GitHub Pages.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;➡ Why Static Site Generators&lt;/h3&gt;
+&lt;!-- ![](../../../src/images/mark_data_safe.png) --&gt;
+&lt;p&gt;Speed ⚡ Scale 📈 Security 🔐&lt;/p&gt;
+&lt;p&gt;With static site generators like &lt;a href=&quot;https://www.gatsbyjs.com/why-gatsby/&quot;&gt;Gatsby&lt;/a&gt; you can build and compile the “fastest websites on the web even faster”. No calls to the database, no generating HTML, and by using a &lt;a href=&quot;https://www.cloudflare.com/learning/cdn/what-is-a-cdn/&quot;&gt;CDN&lt;/a&gt; to replicate your files, you can get access to your content even faster. Adittionally, there are less vulnerabilities to worry about atleast when compared to a CMS solution.&lt;/p&gt;
+&lt;h3&gt;➡ Use Cases&lt;/h3&gt;
+&lt;p&gt;There are several use cases for static site generators spanning industry, technology, user role, and site type. The Gatsby website lays them out pretty well &lt;a href=&quot;https://www.gatsbyjs.com/use-cases/&quot;&gt;here&lt;/a&gt;. For my purposes, I am more interested in the integration with &lt;a href=&quot;https://www.gatsbyjs.com/guides/wordpress/&quot;&gt;WordPress&lt;/a&gt; as well as the ability to use &lt;a href=&quot;https://www.gatsbyjs.com/guides/markdown/&quot;&gt;Markdown&lt;/a&gt;. I will use Markdown for my GitHub Pages &lt;a href=&quot;dev.pinapel.com&quot;&gt;portfolio site&lt;/a&gt;, and use the WordPress integration to revamp my &lt;a href=&quot;notes.pinapel.com&quot;&gt;WordPress Site&lt;/a&gt; to reap some of the benefits offered by Jamstack architecture. Read more about the Jamstack architecture at &lt;a href=&quot;https://jamstack.org/&quot;&gt;Jamstack&lt;/a&gt; and &lt;a href=&quot;https://www.netlify.com/jamstack/&quot;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;➡ Top 5️⃣Static Site Generators&lt;/h3&gt;
+&lt;p&gt;According to &lt;a href=&quot;https://jamstack.org/generators/&quot;&gt;Jamstack.org&lt;/a&gt;, the following list of Static Site Generators has the most stars on GitHub. I am familiar with all five 😎 but its not necessary to learn all of them. Pick one and run with it. I recommend you choose between Gatsby, Next.js, and Nuxt. Sorry &lt;del&gt;Hyde&lt;/del&gt; Hugo &amp;#x26; Jekyll better luck next time. 😂&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;1. Next.js
+2. Hugo
+3. Gatsby
+4. Jekyll
+5. Nuxt&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;➡️ Gatsby and GitHub Pages&lt;/h3&gt;
+&lt;!-- [Starter Blog](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog/) --&gt;
+&lt;!-- [Adding Google Analytics](https://www.mariokandut.com/how-to-add-google-analytics-in-gatsby/) --&gt;</content:encoded></item></channel></rss>

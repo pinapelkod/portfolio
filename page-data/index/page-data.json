@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"pageContext":{}},
-    "staticQueryHashes": []}
+    "result": {"data":{"site":{"siteMetadata":{"title":"Pinapel Studios"}},"allMarkdownRemark":{"nodes":[{"excerpt":"📜 Table of Contents ➡ Why Static Site Generators Speed ⚡ Scale 📈 Security 🔐 With static site generators like Gatsby you can build and…","fields":{"slug":"/blog-01/"},"frontmatter":{"date":"December 29, 2021","title":"Static Site Generators","description":"Speed ⚡ Scale 📈 Security 🔐. Welcome to the revolution!"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
