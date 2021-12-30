@@ -3,7 +3,7 @@ module.exports = {
     title: `Pinapel Studios`,
     author: {
       name: `Martin.`,
-      summary: ``,
+      summary: `Innovation Without Limits.`,
     },
     description: `A starter blog for our GitHub demo projects.`,
     siteUrl: `http://dev.pinapel.com/`,
